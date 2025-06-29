@@ -49,5 +49,3 @@ bash chmod +x *.sh
   - `compile`: C compiler (cc/gcc/clang)
   - `normi`: norminette
   - `vg`: valgrind
-
-```
